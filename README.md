@@ -73,7 +73,7 @@ TrailCurrentApp/
 
 ```bash
 cd TrailCurrentApp
-npm install
+npm install --legacy-peer-deps
 ```
 
 ### Run
