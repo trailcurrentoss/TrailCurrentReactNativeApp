@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/8ca53ed6-12a8-488f-82f4-e5eca75a2c94
 
 # TrailCurrent App
 
-Cross-platform mobile app for monitoring and controlling TrailCurrent vehicle systems. Built with React Native and Expo.
+Cross-platform mobile app for monitoring and controlling [TrailCurrent](https://trailcurrent.com) vehicle systems. Built with React Native and Expo.
 
 ## Tech Stack
 
